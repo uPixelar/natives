@@ -17,3 +17,5 @@ Gets the trailer of a vehicle and puts it into the trailer parameter.
 * **trailer**: 
 
 ## Return value
+* **unknown**:
+* **trailer**
